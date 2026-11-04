@@ -1,4 +1,4 @@
-# Microsoft-Entra-ID-Labs
+# IAM Fundamentals Microsoft-Entra-ID-Labs
 
 Hands-on labs covering core identity administration in Microsoft Entra ID.
 
